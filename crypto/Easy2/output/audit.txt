@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon May 15 01:46:53 2023
+Invocation: foremost -i ./Crypto.png 
+Output directory: /home/spooky/CTF/ksuctf/crypto/Easy2/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: ./Crypto.png
+Start: Mon May 15 01:46:53 2023
+Length: 51 KB (53234 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      51 KB 	          0 	  (487 x 196)
+Finish: Mon May 15 01:46:53 2023
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon May 15 01:46:53 2023
